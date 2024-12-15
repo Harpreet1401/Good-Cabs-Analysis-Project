@@ -6,7 +6,7 @@ GoodCabs future objective is to grow their organization and add more new passeng
 
 ### 🌟 Objective 
 
-Analyis the data for Good cabs to expand their business, help them to analyis the target achivement, passenger and driver behaviour, city wise performace of 2- tier cities. 
+Analyze the data for Good cabs to expand their business, help them to analyze the target achievement, passenger and driver behavior, city wise performance of 2- tier cities.
 
 ### 🧑🏽‍💻Dashboard Landing Page 
 
